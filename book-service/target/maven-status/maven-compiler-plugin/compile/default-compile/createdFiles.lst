@@ -1,0 +1,3 @@
+com\bookstore\book_service\BookServiceApplication.class
+com\bookstore\book_service\controller\BookController.class
+com\bookstore\book_service\model\Book.class

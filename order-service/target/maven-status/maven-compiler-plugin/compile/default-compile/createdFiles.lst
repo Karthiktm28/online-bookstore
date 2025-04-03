@@ -1,0 +1,6 @@
+com\bookstore\order_service\dto\Book.class
+com\bookstore\order_service\OrderServiceApplication.class
+com\bookstore\order_service\repository\OrderRepository.class
+com\bookstore\order_service\service\OrderService.class
+com\bookstore\order_service\controller\OrderController.class
+com\bookstore\order_service\model\Order.class
