@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+# Ignore build output
+/target/
+
 # BlueJ files
 *.ctxt
 
